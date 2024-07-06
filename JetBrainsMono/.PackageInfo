@@ -1,0 +1,23 @@
+name	JetBrainsMono
+version	2.304-1
+architecture	any
+summary	"JetBrains Mono. A typeface for developers."
+description	"JetBrains Mono. A typeface for developers."
+packager		"Amor <amor_y@outlook.com>"
+vendor			"JetBrains"
+licenses {
+	"SIL Open Font License 1.1"
+}
+copyrights {
+	" JetBrains 版权所有"
+}
+provides {
+	JetBrainsMono=2.304
+}
+urls {
+	"https://www.jetbrains.com/zh-cn/lp/mono/"
+}
+source-urls {
+# Download
+	"https://download.jetbrains.com/fonts/JetBrainsMono-2.304.zip?_gl=1*556h64*_ga*MzY0ODkwMDQ3LjE2OTcxMTcxMDc.*_ga_9J976DJZ68*MTcyMDIwMDkwOS40LjEuMTcyMDIwMTE5Ni4wLjAuMA.."
+}

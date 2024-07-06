@@ -1,0 +1,23 @@
+name	alibaba_puhuiti
+version	3.0-1
+architecture	any
+summary	"阿里巴巴普惠体是一套全球永久免费正版商用的字体家族。"
+description	"阿里巴巴普惠体是一套全球永久免费正版商用的字体家族。阿里巴巴普惠体3.0为一套符合新国家标准GB18030-2022的简体中文字符集，包含GB18030-2022强制规范三个实现级别：实现级别1＋实现级别2标准规格的7字重、实现级别3标准规格的Regular 单一字重。7字重共194,460个全形汉字。包含拉丁字母、希腊字母、西里尔字母、标点符号。"
+packager		"Amor <amor_y@outlook.com>"
+vendor			"Alibaba"
+licenses {
+	""
+}
+copyrights {
+	" Alibaba 版权所有"
+}
+provides {
+	alibaba_puhuiti=3.0	# chinese default
+}
+urls {
+	"https://www.alibabafonts.com/#/font"
+}
+source-urls {
+# Download
+	"https://puhuiti.oss-cn-hangzhou.aliyuncs.com/AlibabaPuHuiTi-3.zip"
+}

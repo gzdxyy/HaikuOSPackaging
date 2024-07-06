@@ -1,0 +1,23 @@
+name	Menlo
+version	1.0-1
+architecture	any
+summary	"Monaco 字体美观且容易辨识，普遍被认为是写代码的专用字体，而 Menlo 字体显示非常清晰，是继 Monaco 之后被选上的字体。"
+description	"Monaco 字体美观且容易辨识，普遍被认为是写代码的专用字体，而 Menlo 字体显示非常清晰，是继 Monaco 之后被选上的字体。二者均出于 Mac OS 系统下。"
+packager		"Amor <amor_y@outlook.com>"
+vendor			""
+licenses {
+	""
+}
+copyrights {
+	""
+}
+provides {
+	Menlo=1.0
+}
+urls {
+	"https://github.com/ueaner/fonts"
+}
+source-urls {
+# Download
+	"https://github.com/ueaner/fonts"
+}
