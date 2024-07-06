@@ -1,6 +1,7 @@
 # Haiku OS 打包
 使用
 ```shell
+    cd HaikuOSPackaging
     package create -C xxx xxx.hpkg
 ```
 
